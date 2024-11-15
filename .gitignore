@@ -1,0 +1,32 @@
+# Node.js
+/back/node_modules/
+/back/npm-debug.log
+/back/yarn-error.log
+
+
+/client/node_modules/
+/client/npm-debug.log
+/client/yarn-error.log
+# Build output
+/client/dist/
+/client/build/
+
+# Environment variables
+/back/.env
+/back/package-lock.json
+
+/client/.env
+/client/package-lock.json
+
+# OS specific files
+/back/.DS_Store
+/back/Thumbs.db
+
+/client/.DS_Store
+/client/Thumbs.db
+# Logs
+/back/logs/
+/back/*.log
+
+/client/logs/
+/client/*.log
